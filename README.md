@@ -1,4 +1,4 @@
-# Predicting Heart Disease Prevalence with Distributed Machine Learning using PySpark
+# Predicting Heart Disease Prevalence with Distributed File System and Computing Machine Learning using PySpark
 
 This repository contains a scalable and efficient implementation of machine learning algorithms to predict the prevalence of heart disease based on various independent parameters. The project leverages the power of distributed computing using PySpark and Hadoop Distributed File System (HDFS) to handle large datasets and provide real-time insights. The goal is to help medical professionals and researchers better understand and identify risk factors, ultimately contributing to early diagnosis and prevention of heart disease.
 
