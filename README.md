@@ -19,7 +19,7 @@ These instructions will guide you through setting up the environment, running th
 ### Installation
 
 1. Clone this repository to your local machine.
-2. Install the required Python packages: `pip install -r requirements.txt`
+2. Install the required Python packages: including PySpark, Pandas, Matplotlib, Numpy & Seasborn
 3. Set up the Hadoop and PySpark environment following the official documentation.
 
 ### Running the Project
